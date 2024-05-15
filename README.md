@@ -9,4 +9,4 @@
 ![img](../web/img/pelapaklogin.PNG).
 ![img](../web/img/loginlonsumen.PNG).
 ![img](../web/img/pelapak.PNG).
-![img](../web/img/bukakapak.PNG).
+![img](https://github.com/Hendraparsaulian28/be_ecommerce/blob/main/img/bukakapak.PNG)

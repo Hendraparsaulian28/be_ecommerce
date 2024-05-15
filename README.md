@@ -6,7 +6,7 @@
 | Link YT   | https://youtu.be/ImxAJeq_dyk?si=xPEhEwEpXxrmAxWq      |
 
 # OUTPUT
-![img](../web/img/pelapaklogin.PNG).
-![img](../web/img/loginlonsumen.PNG).
-![img](../web/img/pelapak.PNG).
+![img](https://github.com/Hendraparsaulian28/be_ecommerce/blob/main/img/pelapaklogin.PNG)
+![img]()
+![img]()
 ![img](https://github.com/Hendraparsaulian28/be_ecommerce/blob/main/img/bukakapak.PNG)
